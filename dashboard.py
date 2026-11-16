@@ -7,7 +7,7 @@ user_dashboard()
 
 #adding username to dashboard
 def display_user_dashboard():
-    user_name = "Aishwarya reddy"
-    print(f"Welcome to your dashboard, {user_name}!")
 
+    username = "Aishwarya reddy"
+    print(f"Welcome to your dashboard, {username}!")
 display_user_dashboard()
